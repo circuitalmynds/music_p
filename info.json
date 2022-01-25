@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 378.2558,
+    "videos": [
         "Phyllis Dillon - Livin' in Love (Subtítulos Español)-HICodRaAO0Y.mp4",
         "Paul Simon - Diamonds On The Soles Of Her Shoes (Todd Terje Edit)-Jb3CmI3Hhnk.mp4",
         "Pesado, Catarino Leos - Pero Como Voy A Odiarte (Live at Nuevo León México)-89gJF0EGGVE.mp4",
@@ -41,7 +42,5 @@
         "Pajarillo Barranqueño-INaxgg2amPM.mp4",
         "Poncho k - Duermes. (Directo - acústico)-j5ECvVfl9ZA.mp4",
         "Poncho K - Un perro como tú (Con Albert Plá). [No quiero empates - 2001]-NPJ4sVYpXQo.mp4"
-    ],
-    "id": "p",
-    "total_size": 360.73283203125004
+    ]
 }
