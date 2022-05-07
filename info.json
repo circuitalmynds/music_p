@@ -1,46 +1,201 @@
 {
     "available_space": true,
-    "total_size": 378.2558,
-    "videos": [
-        "Phyllis Dillon - Livin' in Love (Subtítulos Español)-HICodRaAO0Y.mp4",
-        "Paul Simon - Diamonds On The Soles Of Her Shoes (Todd Terje Edit)-Jb3CmI3Hhnk.mp4",
-        "Pesado, Catarino Leos - Pero Como Voy A Odiarte (Live at Nuevo León México)-89gJF0EGGVE.mp4",
-        "Piperrak - Ilargi Betea-X_DfqixAp0k.mp4",
-        "Pass The Koutchie-aqkTa1sPrg4.mp4",
-        "Piperrak - Zoofilia-_pQ-ry1ZdAw.mp4",
-        "Pesado - Quiero Que Me Quieras (Sizzur's Jamz)-E2swi7DWj04.mp4",
-        "Pesado-Tal vez seas tu-PjEnI8V9n1o.mp4",
-        "Poncho k - Sopas de Cariño (Directo - Acústico)-hRQN86AIt0Y.mp4",
-        "Play-DfXQ9YB2e9g.mp4",
-        "Pregúntale a Dios-Z-69GxRSRIA.mp4",
-        "Pesado, Lupe Tijerina - Prenda Querida (Video Oficial)-GZMvGKggwVk.mp4",
-        "Possessions--kaov6ynoCE.mp4",
-        "Pata de Perro-pcYhyYGjbbU.mp4",
-        "Punta Umbria-aTdD7J16X-U.mp4",
-        "Pense Que Fueras Tu - Chuy Vega, Lupe Tijerina - Los Cadetes-5-SJOR0fo2U.mp4",
-        "Pactando carreras-JPhaHmCUPy0.mp4",
-        "Pesado - “Llegó El Amor ” (Audio Oficial)-X3FjD9dGqVc.mp4",
-        "Pesado - Lastima me das [Canciones con letra]-ilbr_XjRHUw.mp4",
-        "Paco de Lucia-Entre dos aguas-XPKtnW1zOHE.mp4",
-        "Public Enemy - Public Enemy Number Won (Audio) ft. Mike D, Ad-Rock, Run DMC-EjvSC-p3Iwg.mp4",
-        "Paté de Fuá - Los Enanos Negros de Praga-ZnSPdeHoEAI.mp4",
-        "Peter Brown - Dance With Me 1978.mp4",
-        "Pesado - Ya lo Sabía (Video Oficial)-UQkut-Efn6Q.mp4",
-        "Por dentro estoy llorando-IHL2fG7WwKw.mp4",
-        "Pata Negra - Lunático-doFuQaBThR4.mp4",
-        "Perdóname (letra) _  Deorro ft. Dycy-yqVOg3pB_QI.mp4",
-        "Preso Por Vida-S_OvN8w3Eo0.mp4",
-        "Para Ti Mi Amor-o7nJ18D4fLo.mp4",
-        "Pixies - Here Comes Your Man (Official Video)-tPgf_btTFlc.mp4",
-        "Playboy, Page Fourteen ~ Leon McAuliffe (1965)-nZQ_fLYp3bs.mp4",
-        "Poncho k - Me das pena--ePX45A_v1k.mp4",
-        "Piperrak - A la mierda-ECd__5p73A0.mp4",
-        "Piperrak - Mi primer amor-Ou7jpErpIsc.mp4",
-        "Paté de Fuá - Viejo puerto-NwEbT5vpILA.mp4",
-        "Poncho K - Cuidado [No quiero empates - 2001]-Za04IB5Nh3g.mp4",
-        "Perdon porque - La arrolladora banda el limón-_aUpAHh10Dw.mp4",
-        "Pajarillo Barranqueño-INaxgg2amPM.mp4",
-        "Poncho k - Duermes. (Directo - acústico)-j5ECvVfl9ZA.mp4",
-        "Poncho K - Un perro como tú (Con Albert Plá). [No quiero empates - 2001]-NPJ4sVYpXQo.mp4"
-    ]
+    "files": [
+        {
+            "name": "Phyllis Dillon - Livin' in Love (Subtítulos Español)-HICodRaAO0Y.mp4",
+            "path": "music_p/videos/Phyllis Dillon - Livin' in Love (Subtítulos Español)-HICodRaAO0Y.mp4",
+            "size": 6.234840064
+        },
+        {
+            "name": "Paul Simon - Diamonds On The Soles Of Her Shoes (Todd Terje Edit)-Jb3CmI3Hhnk.mp4",
+            "path": "music_p/videos/Paul Simon - Diamonds On The Soles Of Her Shoes (Todd Terje Edit)-Jb3CmI3Hhnk.mp4",
+            "size": 11.598139392
+        },
+        {
+            "name": "Pesado, Catarino Leos - Pero Como Voy A Odiarte (Live at Nuevo León México)-89gJF0EGGVE.mp4",
+            "path": "music_p/videos/Pesado, Catarino Leos - Pero Como Voy A Odiarte (Live at Nuevo León México)-89gJF0EGGVE.mp4",
+            "size": 14.961399808000001
+        },
+        {
+            "name": "Piperrak - Ilargi Betea-X_DfqixAp0k.mp4",
+            "path": "music_p/videos/Piperrak - Ilargi Betea-X_DfqixAp0k.mp4",
+            "size": 4.113264640000001
+        },
+        {
+            "name": "Pass The Koutchie-aqkTa1sPrg4.mp4",
+            "path": "music_p/videos/Pass The Koutchie-aqkTa1sPrg4.mp4",
+            "size": 9.605875712000001
+        },
+        {
+            "name": "Piperrak - Zoofilia-_pQ-ry1ZdAw.mp4",
+            "path": "music_p/videos/Piperrak - Zoofilia-_pQ-ry1ZdAw.mp4",
+            "size": 7.162402816
+        },
+        {
+            "name": "Pesado - Quiero Que Me Quieras (Sizzur's Jamz)-E2swi7DWj04.mp4",
+            "path": "music_p/videos/Pesado - Quiero Que Me Quieras (Sizzur's Jamz)-E2swi7DWj04.mp4",
+            "size": 2.9262704640000003
+        },
+        {
+            "name": "Pesado-Tal vez seas tu-PjEnI8V9n1o.mp4",
+            "path": "music_p/videos/Pesado-Tal vez seas tu-PjEnI8V9n1o.mp4",
+            "size": 5.490036736
+        },
+        {
+            "name": "Poncho k - Sopas de Cariño (Directo - Acústico)-hRQN86AIt0Y.mp4",
+            "path": "music_p/videos/Poncho k - Sopas de Cariño (Directo - Acústico)-hRQN86AIt0Y.mp4",
+            "size": 18.375172096
+        },
+        {
+            "name": "Play-DfXQ9YB2e9g.mp4",
+            "path": "music_p/videos/Play-DfXQ9YB2e9g.mp4",
+            "size": 5.991533568
+        },
+        {
+            "name": "Pregúntale a Dios-Z-69GxRSRIA.mp4",
+            "path": "music_p/videos/Pregúntale a Dios-Z-69GxRSRIA.mp4",
+            "size": 5.03284736
+        },
+        {
+            "name": "Pesado, Lupe Tijerina - Prenda Querida (Video Oficial)-GZMvGKggwVk.mp4",
+            "path": "music_p/videos/Pesado, Lupe Tijerina - Prenda Querida (Video Oficial)-GZMvGKggwVk.mp4",
+            "size": 17.805508608
+        },
+        {
+            "name": "Possessions--kaov6ynoCE.mp4",
+            "path": "music_p/videos/Possessions--kaov6ynoCE.mp4",
+            "size": 2.3496857600000003
+        },
+        {
+            "name": "Pata de Perro-pcYhyYGjbbU.mp4",
+            "path": "music_p/videos/Pata de Perro-pcYhyYGjbbU.mp4",
+            "size": 9.113653248
+        },
+        {
+            "name": "Punta Umbria-aTdD7J16X-U.mp4",
+            "path": "music_p/videos/Punta Umbria-aTdD7J16X-U.mp4",
+            "size": 3.4193899520000004
+        },
+        {
+            "name": "Pense Que Fueras Tu - Chuy Vega, Lupe Tijerina - Los Cadetes-5-SJOR0fo2U.mp4",
+            "path": "music_p/videos/Pense Que Fueras Tu - Chuy Vega, Lupe Tijerina - Los Cadetes-5-SJOR0fo2U.mp4",
+            "size": 11.592130560000001
+        },
+        {
+            "name": "Pactando carreras-JPhaHmCUPy0.mp4",
+            "path": "music_p/videos/Pactando carreras-JPhaHmCUPy0.mp4",
+            "size": 3.498417152
+        },
+        {
+            "name": "Pesado - “Llegó El Amor ” (Audio Oficial)-X3FjD9dGqVc.mp4",
+            "path": "music_p/videos/Pesado - “Llegó El Amor ” (Audio Oficial)-X3FjD9dGqVc.mp4",
+            "size": 5.2080568320000005
+        },
+        {
+            "name": "Pesado - Lastima me das [Canciones con letra]-ilbr_XjRHUw.mp4",
+            "path": "music_p/videos/Pesado - Lastima me das [Canciones con letra]-ilbr_XjRHUw.mp4",
+            "size": 7.410165760000001
+        },
+        {
+            "name": "Paco de Lucia-Entre dos aguas-XPKtnW1zOHE.mp4",
+            "path": "music_p/videos/Paco de Lucia-Entre dos aguas-XPKtnW1zOHE.mp4",
+            "size": 22.554346496
+        },
+        {
+            "name": "Public Enemy - Public Enemy Number Won (Audio) ft. Mike D, Ad-Rock, Run DMC-EjvSC-p3Iwg.mp4",
+            "path": "music_p/videos/Public Enemy - Public Enemy Number Won (Audio) ft. Mike D, Ad-Rock, Run DMC-EjvSC-p3Iwg.mp4",
+            "size": 27.136716800000002
+        },
+        {
+            "name": "Paté de Fuá - Los Enanos Negros de Praga-ZnSPdeHoEAI.mp4",
+            "path": "music_p/videos/Paté de Fuá - Los Enanos Negros de Praga-ZnSPdeHoEAI.mp4",
+            "size": 10.437265408
+        },
+        {
+            "name": "Pesado - Ya lo Sabía (Video Oficial)-UQkut-Efn6Q.mp4",
+            "path": "music_p/videos/Pesado - Ya lo Sabía (Video Oficial)-UQkut-Efn6Q.mp4",
+            "size": 10.282169344000001
+        },
+        {
+            "name": "Por dentro estoy llorando-IHL2fG7WwKw.mp4",
+            "path": "music_p/videos/Por dentro estoy llorando-IHL2fG7WwKw.mp4",
+            "size": 6.64484864
+        },
+        {
+            "name": "Pata Negra - Lunático-doFuQaBThR4.mp4",
+            "path": "music_p/videos/Pata Negra - Lunático-doFuQaBThR4.mp4",
+            "size": 8.164927488
+        },
+        {
+            "name": "Perdóname (letra) _  Deorro ft. Dycy-yqVOg3pB_QI.mp4",
+            "path": "music_p/videos/Perdóname (letra) _  Deorro ft. Dycy-yqVOg3pB_QI.mp4",
+            "size": 12.031805440000001
+        },
+        {
+            "name": "Preso Por Vida-S_OvN8w3Eo0.mp4",
+            "path": "music_p/videos/Preso Por Vida-S_OvN8w3Eo0.mp4",
+            "size": 6.423597056
+        },
+        {
+            "name": "Para Ti Mi Amor-o7nJ18D4fLo.mp4",
+            "path": "music_p/videos/Para Ti Mi Amor-o7nJ18D4fLo.mp4",
+            "size": 7.744333824000001
+        },
+        {
+            "name": "Pixies - Here Comes Your Man (Official Video)-tPgf_btTFlc.mp4",
+            "path": "music_p/videos/Pixies - Here Comes Your Man (Official Video)-tPgf_btTFlc.mp4",
+            "size": 15.854978048000001
+        },
+        {
+            "name": "Playboy, Page Fourteen ~ Leon McAuliffe (1965)-nZQ_fLYp3bs.mp4",
+            "path": "music_p/videos/Playboy, Page Fourteen ~ Leon McAuliffe (1965)-nZQ_fLYp3bs.mp4",
+            "size": 5.709237248
+        },
+        {
+            "name": "Poncho k - Me das pena--ePX45A_v1k.mp4",
+            "path": "music_p/videos/Poncho k - Me das pena--ePX45A_v1k.mp4",
+            "size": 10.702864384000002
+        },
+        {
+            "name": "Piperrak - A la mierda-ECd__5p73A0.mp4",
+            "path": "music_p/videos/Piperrak - A la mierda-ECd__5p73A0.mp4",
+            "size": 7.249739776
+        },
+        {
+            "name": "Piperrak - Mi primer amor-Ou7jpErpIsc.mp4",
+            "path": "music_p/videos/Piperrak - Mi primer amor-Ou7jpErpIsc.mp4",
+            "size": 5.8904760320000005
+        },
+        {
+            "name": "Paté de Fuá - Viejo puerto-NwEbT5vpILA.mp4",
+            "path": "music_p/videos/Paté de Fuá - Viejo puerto-NwEbT5vpILA.mp4",
+            "size": 9.086548992
+        },
+        {
+            "name": "Poncho K - Cuidado [No quiero empates - 2001]-Za04IB5Nh3g.mp4",
+            "path": "music_p/videos/Poncho K - Cuidado [No quiero empates - 2001]-Za04IB5Nh3g.mp4",
+            "size": 3.693792256
+        },
+        {
+            "name": "Perdon porque - La arrolladora banda el limón-_aUpAHh10Dw.mp4",
+            "path": "music_p/videos/Perdon porque - La arrolladora banda el limón-_aUpAHh10Dw.mp4",
+            "size": 8.979761152
+        },
+        {
+            "name": "Pajarillo Barranqueño-INaxgg2amPM.mp4",
+            "path": "music_p/videos/Pajarillo Barranqueño-INaxgg2amPM.mp4",
+            "size": 3.2625704960000004
+        },
+        {
+            "name": "Poncho k - Duermes. (Directo - acústico)-j5ECvVfl9ZA.mp4",
+            "path": "music_p/videos/Poncho k - Duermes. (Directo - acústico)-j5ECvVfl9ZA.mp4",
+            "size": 14.904502272
+        },
+        {
+            "name": "Poncho K - Un perro como tú (Con Albert Plá). [No quiero empates - 2001]-NPJ4sVYpXQo.mp4",
+            "path": "music_p/videos/Poncho K - Un perro como tú (Con Albert Plá). [No quiero empates - 2001]-NPJ4sVYpXQo.mp4",
+            "size": 5.650752512
+        }
+    ],
+    "total_size": 354.2940241920001
 }
