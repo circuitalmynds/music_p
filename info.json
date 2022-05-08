@@ -27,6 +27,11 @@
             "size": 9.663676416000001
         },
         {
+            "name": "Johann Strauss II - Vergnügungszug - Polka-schnell, op. 281-p65o8v8j57Q.mp4",
+            "path": "music_p/videos/Johann Strauss II - Vergnügungszug - Polka-schnell, op. 281-p65o8v8j57Q.mp4",
+            "size": 3.1395768320000004
+        },
+        {
             "name": "Paul Simon - Diamonds On The Soles Of Her Shoes (Todd Terje Edit)-Jb3CmI3Hhnk.mp4",
             "path": "music_p/videos/Paul Simon - Diamonds On The Soles Of Her Shoes (Todd Terje Edit)-Jb3CmI3Hhnk.mp4",
             "size": 11.598139392
@@ -252,5 +257,5 @@
             "size": 5.650752512
         }
     ],
-    "total_size": 501.5158067200001
+    "total_size": 504.6553835520001
 }
