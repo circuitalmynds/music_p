@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "Mario Lanza Granada-cWXNSlZU0Us.mp4",
+            "path": "music_p/videos/Mario Lanza Granada-cWXNSlZU0Us.mp4",
+            "size": 12.538622976000001
+        },
+        {
             "name": "Phyllis Dillon - Livin' in Love (Subtítulos Español)-HICodRaAO0Y.mp4",
             "path": "music_p/videos/Phyllis Dillon - Livin' in Love (Subtítulos Español)-HICodRaAO0Y.mp4",
             "size": 6.234840064
@@ -217,5 +222,5 @@
             "size": 5.650752512
         }
     ],
-    "total_size": 399.20021196800013
+    "total_size": 411.73883494400013
 }
